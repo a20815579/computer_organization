@@ -26,7 +26,7 @@ Below is the block diagram
 ![image](https://i.imgur.com/af3IQMm.jpg)
 
 ### other file discription
-- memory layout
+- memory layout  
     ![image](https://i.imgur.com/qE9RGkA.png)
     - .text : Store instruction code.
     - .init & .fini : Store instruction code for entering & leaving the process.
